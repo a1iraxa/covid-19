@@ -32,6 +32,7 @@ class App extends React.Component {
 
         if (country === 'global') {
             window.location.reload();
+            return true;
         }
         this.setState({loading: true});
         const data = await getCardsData(country);

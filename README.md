@@ -1,5 +1,6 @@
 
 ## COVID-19 Live Tracker
+Open [to view it in the browser.](http://asif.me/dev/covid-19/)
 
 Simply can run:
 
